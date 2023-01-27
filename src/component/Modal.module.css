@@ -1,0 +1,65 @@
+.p1 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(247, 247, 247, 0.6);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.p2{
+    -webkit-animation: mmslideIn 0.3s cubic-bezier(0, 0, 0.2, 1);
+    animation: mmslideIn 0.3s cubic-bezier(0, 0, 0.2, 1);
+    background-color: orange;
+    padding: 1rem 2rem;
+    max-height: 100vh;
+    min-width: 320px;
+    border-radius: 4px;
+    overflow-y: auto;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-box-shadow: 0 5px 20px 0 rgb(0 0 0 / 30%);
+    box-shadow: 0 5px 20px 0 rgb(0 0 0 / 30%);
+}
+.p3{
+    line-height: 1.5;
+    display: block;
+    box-sizing: inherit;
+}
+.columns {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-left: -0.4rem;
+    margin-right: -0.4rem;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-left: -0.4rem;
+    margin-right: -0.4rem;
+
+}
+.p3 button {
+    background: #f9a300;
+    border-color: #ea9900;
+    color: #fff;
+    height: 40px;
+    width: 60px;
+    margin-top: 10px;
+    text-align: center;
+    float: right;
+}
+.p3 label {
+    font-size: 20px;
+}

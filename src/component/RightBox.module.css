@@ -1,0 +1,36 @@
+.container{
+    float: right;
+    right: 0;
+    top: 1;
+    bottom: 0;
+    display: grid;
+    background-color: red;
+    height: 568px;
+    position: fixed;
+}
+
+
+.Img1{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+button {
+    border: none;
+    padding: 10px;
+    border-bottom: 1px solid #dde2e6;
+    border-left: 1px solid #dde2e6;
+}
+
+button:active {
+    color: gold; 
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover , a:active {
+    color: gold;
+}

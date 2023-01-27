@@ -1,0 +1,23 @@
+body{
+  font-family: "IranSans";
+}
+.navb{
+  position: fixed;
+}
+
+@font-face {
+  font-family: "iranSans";
+  src: url(fonts/Iranian\ Sans.ttf);
+}
+@font-face {
+  font-family: "Nastaligh";
+  src: url(fonts/IranNastaliq.ttf);
+}
+@font-face {
+  font-family: "Nazanin";
+  src: url(fonts/B-NAZANIN.TTF);
+}
+@font-face {
+  font-family: "LaleZar";
+  src: url(fonts/Lalezar-Regular.ttf);
+}

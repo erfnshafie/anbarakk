@@ -1,0 +1,30 @@
+.mablagh{
+    float: left;
+    direction: ltr;
+}
+
+body{
+    background-color: rgb(230, 230, 230);
+}
+
+.box{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    width: 370px;
+    margin-bottom: 10px;
+}
+.box1 {
+    background-color: white;
+    border-radius: 20px;
+}
+.charts {
+    padding-top: 20px;
+    margin-right: -250px;
+    padding-bottom: 20px;
+}
+
+.Charta {
+    padding-left: 200px;
+}

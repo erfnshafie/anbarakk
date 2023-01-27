@@ -1,0 +1,61 @@
+.container {
+    direction: rtl;
+    margin-top: 20px;
+}
+
+
+.part1 {
+    align-items: center;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    text-align: center;
+    margin-top: 0.5rem;
+    display: block;
+    margin-bottom: 1.5rem;
+}
+.part1 img {
+    display: inline!important;
+    border: none!important;
+    height: 1em!important;
+    width: 1em!important;
+    margin: 0 0.07em!important;
+    vertical-align: -0.1em!important;
+    background: 0 0!important;
+    padding: 0!important;
+    box-shadow: none!important;
+}
+.part2 {
+    /* font-family: IranYekan, IRANSans, Samim, Ubuntu, Helvetica, FreeSans, tahoma, Arial; */
+    font-size: 1.214rem;
+    line-height: 1.9em;
+    /* word-wrap: anywhere; */
+    text-align: center;
+    margin: 0 0 1.2rem;
+    font-size: 13px;
+    line-height: 1.5;
+    margin: 1em 0;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.container1 {
+    margin-top: 1.5rem;
+    text-align: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
